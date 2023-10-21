@@ -19,3 +19,13 @@ Secondary School, Kunnamthanam)
 2020 - 2022
 
 
+<h1>SKILLS</h1>
+
+- UI/UX
+- Visual Design
+- Photoshop
+- Communication
+- HTML / CSS
+- Figma / Adobe XD
+
+
