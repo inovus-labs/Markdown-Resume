@@ -5,3 +5,13 @@
 ## EDUCATION
 - ***[KRISTU JYOTI COLLEGE OF MANAGEMNET AND TECHNOLOGY](https://kjcmt.ac.in/)***    -2023  (BACHELOR'S DEGREE)
 - ***[ST.MARY'S RESIDENTIAL PUBLIC SCHOOL](https://www.stmarysrps.in/)***      -2011-2023   (SECONDARY AND HIGHER SECONDARY EDUCATION)
+
+---
+---
+## SKILLS
+- ***[PYTHON](https://g.co/kgs/yw27Gm)***
+- ***[FIGMA](https://g.co/kgs/GQ4ocH)***
+- ***[WEB DESIGNING](https://g.co/kgs/11TBr3)***  (IN PROGRESS)
+
+---
+---
