@@ -9,3 +9,5 @@
 # Skills 
 - Python
 - Figma
+# Experience 
+- Intern at Inovus Labs IEDC (2023 - present)
