@@ -20,4 +20,9 @@ I am a student who is aspired in designing. I am also interested in web developm
 
 - Figma
 - Web Development
+
+
+# Experience
+
+- Intern at Inovus Labs IEDC 2023 - present
   
