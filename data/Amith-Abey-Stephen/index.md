@@ -3,8 +3,8 @@
 ---
 ---
 ## EDUCATION
-- ***[KRISTU JYOTI COLLEGE OF MANAGEMNET AND TECHNOLOGY](https://kjcmt.ac.in/)***    -2023  (BACHELOR'S DEGREE)
-- ***[ST.MARY'S RESIDENTIAL PUBLIC SCHOOL](https://www.stmarysrps.in/)***      -2011-2023   (SECONDARY AND HIGHER SECONDARY EDUCATION)
+- ***[KRISTU JYOTI COLLEGE OF MANAGEMNET AND TECHNOLOGY](https://kjcmt.ac.in/)***    -(2023-PRESENT)  (BACHELOR'S DEGREE)
+- ***[ST.MARY'S RESIDENTIAL PUBLIC SCHOOL](https://www.stmarysrps.in/)***      -(2011-2023)   (SECONDARY AND HIGHER SECONDARY EDUCATION)
 
 ---
 ---
@@ -15,3 +15,5 @@
 
 ---
 ---
+## EXPERIENCE
+- INTERN AT *[INOVUS LABS IEDC](https://inovus-labs.web.app/)* (2023-PRESENT)
