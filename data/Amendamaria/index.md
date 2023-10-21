@@ -9,3 +9,4 @@ I am currently pursuing a degree in Computer Application in **Kristu Jyoti Colle
 # Skills
   - Figma
   - Web Development
+    
