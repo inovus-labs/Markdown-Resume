@@ -4,6 +4,4 @@ I am currently pursuing a degree in Computer Application in **Kristu Jyoti Colle
 1. 1st Year BCA in [Kristu Jyoti College of Management and Technology](https://kjcmt.ac.in/) in Mahatma Gandhi University. 
 2. Completed Higher Secondary Education in ** SJBHSS Nedumkunnam,Kottayam. ** Passed out in **2021-2023**
 3. Completed SSLC in ** STGHS Nedumkunnam, Kottayam. ** Passed out in **2020-2021**
-# Skills
-- Figma
-- Web Development
+
