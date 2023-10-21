@@ -6,3 +6,6 @@
 1. 1st Year BCA in [Kristu Jyoti College of Management and Technology](https://kjcmt.ac.in/) in Mahatma Gandhi University. 2023-Present.
 2. Completed Higher Secondary Education in SJBCBSE Nedumkunnam,Kottayam. 2021-2023
 3. Completed GRADE 10 from SJBCBSE Nedumkunnam, Kottayam. 2020-2021
+# Skills 
+- Python
+- Figma
