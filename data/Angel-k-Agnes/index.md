@@ -5,3 +5,7 @@ I am a good listener.I am good at working using my own initative and flexiable i
   1. BCA 1st year at [Kristu Jyothi Collage of Managment and Technology](https://kjcmt.ac.in/)
   2. Higher Seconadry education  in St Joseph's school Pulincunnoo (2021-2023
   3. SSLC in Little Flower Girls High School Pulincunnoo (2020-2021) 
+# Skills
+- Figma
+- Web Designing
+ 
