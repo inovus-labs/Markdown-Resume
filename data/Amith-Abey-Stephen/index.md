@@ -1,1 +1,2 @@
-
+# **Amith Abey Stephen**
+##### I am persuing BCA at **KRISTU JYOTI COLLEGE OF MANAGEMENT AND TECHNOLOGY**.I basically have working knowledge in *PYTHON,WEB DESIGNING,GRAPHIC DESIGNING,IoT*.With each line of code I write, I'm not just solving problems; I'm shaping the future. My journey through the world of computer applications has been an exhilarating ride, from unraveling the secrets of programming languages to mastering databases and web development. I'm not just a student; I'm a digital explorer, venturing into the uncharted territories of the tech universe.
