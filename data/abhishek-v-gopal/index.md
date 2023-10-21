@@ -11,3 +11,7 @@
   <li>Javascript</li>
   <li>Figma</li>
 </ul>
+
+<h2>Projects</h2>
+
+<p>Our portfolio encompasses a diverse range of projects, each tailored to address specific challenges and opportunities in various industries. From cutting-edge software development to groundbreaking research initiatives, our projects are driven by a passion for innovation and a commitment to delivering exceptional results for our clients and stakeholders.</p>
