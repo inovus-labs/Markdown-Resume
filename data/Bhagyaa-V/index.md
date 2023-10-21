@@ -10,7 +10,14 @@ I am a student who is aspired in designing. I am also interested in web developm
   Management and Technology,
   Changanacherry) 2023 - present
 
-  - Higher Secondary 
-    St. John the Baptist's
-    English School, Nedumkunnam
-    2021 - 23
+- Higher Secondary 
+  St. John the Baptist's
+  English School, Nedumkunnam
+  2021 - 23
+
+
+# Skills
+
+- Figma
+- Web Development
+  
