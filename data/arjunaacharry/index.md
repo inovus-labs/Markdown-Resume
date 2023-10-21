@@ -13,7 +13,7 @@ Bachelor of Computer Application
 Management and Technology,
 Changanacherry) 2022 - Present
 
-- Plus Two
+- Higher Secondary
 Computer Science (CS), (NSS Higher
 Secondary School, Kunnamthanam)
 2020 - 2022
@@ -27,5 +27,32 @@ Secondary School, Kunnamthanam)
 - Communication
 - HTML / CSS
 - Figma / Adobe XD
+
+<h1>EXPERIENCE</h1>
+
+- Chief Creative Officer (CCO)    (2023 - Present)
+  Inovus Labs IEDC (Kristu Jyoti College)
+  As the Chief Creative Officer (CCO), I am responsible for driving innovation and leading the
+  creative direction of the community, ensuring exceptional and visionary design solutions
+  that elevate the brand and captivate audiences.
+
+- Graphic Design (Intern)    (2023 - Present)
+  Gtech MuLearn
+  As a graphic designer, I skillfully blend creativity and visual communication to craft impactful
+  and aesthetically pleasing designs.
+
+- UI/UX Designer    (2023 - Present)
+  Kerala Police Cyberdome
+  As a UI/UX designer, I create intuitive and visually appealing digital experiences that
+  prioritize user satisfaction and engagement.
+
+- Graphic Designer    (2022 - Present)
+  Cybernetix (Cyber Club of Kristu Jyoti College)
+  As a Cybernetix Club designer, I creatively design captivating digital experiences that
+  showcase innovation and engage users in a technologically dynamic environment.
+
+- Freelance Designer    (2021 - Present)
+  As a freelance designer, I deliver creative and tailored design solutions to clients,
+  showcasing adaptability and selfmotivation in managing design projects
 
 
