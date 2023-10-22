@@ -18,3 +18,7 @@ CERTIFICATIONS
 - Excel
 - Chat GPT(basic)
 
+CONTACT
+Dani John Cherian
+danijcherian2@gmail.com
+Instagram - dani_john18
