@@ -43,8 +43,8 @@ Here on [CONTRIBUTORS.md](https://github.com/inovus-labs/markdown-resume/blob/ma
 
 This is an excellent opportunity for you to contribute to open source, learn Markdown, and enhance your resume. The Hacktoberfest season is the perfect time to get started. If you have any questions, feel free to ask in the issues section of this repository.
 
----
+## ⚠️ Disclaimer
 
-**Disclaimer**: This repository is not officially affiliated with Hacktoberfest, Kristu Jyoti College, or any other organization. It's created for educational purposes and to encourage contributions during Hacktoberfest.
+This repository is not officially affiliated with Hacktoberfest. It's created for educational purposes and to encourage contributions during Hacktoberfest, for the students of **Kristu Jyoti College** exclusively. Therefore, sorry to say, that no external Pull Requests will be accepted.
 
 Happy Hacking and Happy Learning Markdown! 😄
