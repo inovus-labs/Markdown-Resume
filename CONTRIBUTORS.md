@@ -24,6 +24,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SaneTechBoard"><img src="https://avatars.githubusercontent.com/u/141046951?v=4?s=100" width="100px;" alt="SaneTechBoard"/><br /><sub><b>SaneTechBoard</b></sub></a><br /><a href="#code-SaneTechBoard" title="Code">💻</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/arjunaacharry01"><img src="https://avatars.githubusercontent.com/u/148681303?v=4?s=100" width="100px;" alt="arjunaacharry01"/><br /><sub><b>arjunaacharry01</b></sub></a><br /><a href="#code-arjunaacharry01" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/catherinebottathil"><img src="https://avatars.githubusercontent.com/u/148686494?v=4?s=100" width="100px;" alt="catherinebottathil"/><br /><sub><b>catherinebottathil</b></sub></a><br /><a href="#code-catherinebottathil" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/karthik2428"><img src="https://avatars.githubusercontent.com/u/148684937?v=4?s=100" width="100px;" alt="karthik2428"/><br /><sub><b>karthik2428</b></sub></a><br /><a href="#code-karthik2428" title="Code">💻</a></td>
     </tr>
