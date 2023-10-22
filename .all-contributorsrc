@@ -1,4 +1,21 @@
 {
   "projectName": "markdown-resume",
-  "projectOwner": "inovus-labs"
+  "projectOwner": "inovus-labs",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "decoded-cipher",
+      "name": "Arjun Krishna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44474792?v=4",
+      "profile": "http://arjunkrishna.in",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
