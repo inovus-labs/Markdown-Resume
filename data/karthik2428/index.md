@@ -7,3 +7,11 @@
 - Mahatma Gandhi University Bachelor of Computer Applications (BCA),( Kristu Jyoti College of Management and Technology,Changanaserry) -2023-Present
 
 - Higher Secondary Education Computer Science (CS),(NSS Higher Secondary School, Perunna) 2020-2022
+
+- # Skills
+- - HTML
+  - CSS
+  - C
+
+    # Contact
+    - E-mail - karthiksanthosh259@gmail.com
