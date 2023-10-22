@@ -1,4 +1,4 @@
-# Markdown Resume Challenge for Hacktoberfest
+# Markdown Resume Challenge
 
 ![Hacktoberfest Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
 
@@ -34,6 +34,10 @@ Follow these steps to participate in the Markdown Resume Challenge:
   - **Experience**: Any work experience or internships you'd like to showcase
 
 - Feel free to be creative with the formatting and styling of your resume, but ensure it remains legible.
+
+## 🌟 Contributors
+
+Here on [CONTRIBUTORS.md](https://github.com/inovus-labs/markdown-resume/blob/master/CONTRIBUTORS.md), you can find all the learners who've contributed to this project. Each of their resumes' reflects the individual style and skills of its creator, showcasing the power of Markdown for resume formatting.
 
 ## 🌟 Happy Hacking! 🎉
 
