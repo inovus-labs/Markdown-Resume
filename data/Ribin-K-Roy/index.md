@@ -5,3 +5,5 @@
 . love learning new tech
 # EDUCATION 
 I'm persuing my BCA at KCMT 
+# SKILLS
+*Fast learner* *basic programming knowledge* *UI designing*
