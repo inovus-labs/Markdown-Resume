@@ -10,4 +10,5 @@
 # skills
 - Web Designer
 - C++
+- SQL
   
