@@ -6,4 +6,11 @@
 # EDUCATION 
 I'm persuing my BCA at KCMT 
 # SKILLS
-*Fast learner* *basic programming knowledge* *UI designing*
+*Fast learner* 
+*basic programming knowledge* 
+*UI designing*
+# HOBBIES
+ *Driving*
+ *coding*
+ *ui designing*
+ 
