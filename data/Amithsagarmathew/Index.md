@@ -19,3 +19,10 @@
   <li> Kristu Jyoti College of Management & Technology(2023-present)</li>
   
 </ul>
+ <br>
+<h2>Contact</h2>
+<ul>
+  <li>Email ID-amithsagarmathew@gmail.com</li>
+  <li>PH Number-9037804734</li>
+  
+</ul>
