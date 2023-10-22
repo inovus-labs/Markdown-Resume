@@ -1,3 +1,10 @@
 # Ribin K Roy
-I'm studying BCA at KCMT 
-good talker, listening music 
+. self taught learner
+. creative thinker
+. adventure enthusiast
+. love learning new tech 
+# HOBBIES 
+. *designing*
+. *listening music* 
+# EDUCATION 
+I'm persuing my BCA at KCMT 
