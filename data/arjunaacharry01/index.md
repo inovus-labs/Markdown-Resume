@@ -5,14 +5,12 @@ As a dedicated learner with a passion for UI design, I am currently pursuing a d
 
 
 # EDUCATION
-
 - Mahatma Gandhi University Bachelor of Computer Application (BCA), (Kristu Jyoti College of Management and Technology, Changanacherry) 
   2022 - Present
 
 - Higher Secondary Education Computer Science (CS), (NSS Higher Secondary School, Kunnamthanam) 2020 - 2022
 
 SKILLS
-
 - UI/UX
 - Visual Design
 - Photoshop
