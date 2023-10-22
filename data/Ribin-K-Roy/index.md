@@ -13,4 +13,6 @@ I'm persuing my BCA at KCMT
  *Driving*
  *coding*
  *ui designing*
- 
+ # contact
+ Instagram - avenew_007
+ Gmail - ribinroy2004@gmail.com
