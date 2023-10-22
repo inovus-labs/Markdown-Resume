@@ -17,5 +17,9 @@
  ### - figma
  ### - leadership 
  ### - communication 
+
+ ## experience 
+
+ ### - billing and sales (for 1 mouth ) 
  
  
