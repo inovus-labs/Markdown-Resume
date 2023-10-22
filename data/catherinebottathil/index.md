@@ -16,4 +16,4 @@ SKILLS
    - COMMUNICATION
 
 CONTACT
-   Connect me through linkedin
+ - Connect me through linkedin
