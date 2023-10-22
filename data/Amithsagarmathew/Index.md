@@ -12,3 +12,10 @@
   <li>3ds max</li>
   <li>Figma</li>
 </ul>
+<br>
+<h2>Education</h2>
+<ul>
+  <li>Don Bosco Higher secondary school(2020-2023)</li>
+  <li> Kristu Jyoti College of Management & Technology(2023-present)</li>
+  
+</ul>
