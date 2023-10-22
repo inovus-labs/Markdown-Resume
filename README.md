@@ -24,11 +24,6 @@ Follow these steps to participate in the Markdown Resume Challenge:
 6. Commit and push your changes to your forked repository.
 7. Create a pull request (PR) to this repository, including your Markdown resume file.
 
-## 🌟 Contributors' Resumes
-
-- [John Doe](resumes/john-doe-resume.md)
-- [Jane Smith](resumes/jane-smith-resume.md)
-
 ## 🌟 Rules and Guidelines
 
 - Your Markdown resume should include at least the following sections:
@@ -49,3 +44,16 @@ This is an excellent opportunity for you to contribute to open source, learn Mar
 **Disclaimer**: This repository is not officially affiliated with Hacktoberfest, Kristu Jyoti College, or any other organization. It's created for educational purposes and to encourage contributions during Hacktoberfest.
 
 Happy Hacking and Happy Learning Markdown! 😄
+
+---
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
