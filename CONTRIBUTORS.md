@@ -16,6 +16,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Bhagyaa-V"><img src="https://avatars.githubusercontent.com/u/145788408?v=4?s=100" width="100px;" alt="Bhagyaa-V"/><br /><sub><b>Bhagyaa-V</b></sub></a><br /><a href="#code-Bhagyaa-V" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Dev-vi-ka"><img src="https://avatars.githubusercontent.com/u/145110109?v=4?s=100" width="100px;" alt="Dev-vi-ka"/><br /><sub><b>Dev-vi-ka</b></sub></a><br /><a href="#code-Dev-vi-ka" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SaneTechBoard"><img src="https://avatars.githubusercontent.com/u/141046951?v=4?s=100" width="100px;" alt="SaneTechBoard"/><br /><sub><b>SaneTechBoard</b></sub></a><br /><a href="#code-SaneTechBoard" title="Code">💻</a></td>
     </tr>
   </tbody>
