@@ -14,3 +14,6 @@ SKILLS
    - FIGMA
    - ANIMATION
    - COMMUNICATION
+
+CONTACT
+   Connect me through linkedin
