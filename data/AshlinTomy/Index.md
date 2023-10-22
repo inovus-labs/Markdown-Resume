@@ -8,3 +8,5 @@
 
 **skills - pyton,c,**
 
+**experience - extended team member at Inovus Lab IEDC.**
+
