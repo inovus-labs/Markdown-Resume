@@ -12,6 +12,7 @@ developing new items and ideas. I've a spark for other scientific areas.</p>
   <li>Basic Figma</li>
 </ul>
 <h2>Projects</h2>
+I'm working on some projects and have completed a project.
 <ul>
   <li>Breathalyzer</li>
 </ul>
