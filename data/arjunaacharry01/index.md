@@ -28,3 +28,8 @@ UI/UX Designer (2023 - Present) Kerala Police Cyberdome As a UI/UX designer, I c
 Graphic Designer (2022 - Present) Cybernetix (Cyber Club of Kristu Jyoti College) As a Cybernetix Club designer, I creatively design captivating digital experiences that showcase innovation and engage users in a technologically dynamic environment.
 
 Freelance Designer (2021 - Present) As a freelance designer, I deliver creative and tailored design solutions to clients, showcasing adaptability and selfmotivation in managing design projects
+
+# CONTACT
+Connect me through LinkedIn
+Posting new creativities in Behance
+Website Arjun A Acharry
