@@ -3,7 +3,7 @@
   "projectOwner": "inovus-labs",
   "contributorsSortAlphabetically": true,
   "files": [
-    "README.md"
+    "CONTRIBUTORS.md"
   ],
   "commitType": "docs",
   "commitConvention": "angular",
