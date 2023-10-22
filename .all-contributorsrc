@@ -1,6 +1,7 @@
 {
   "projectName": "markdown-resume",
   "projectOwner": "inovus-labs",
+  "contributorsSortAlphabetically": true,
   "files": [
     "README.md"
   ],
