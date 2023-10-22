@@ -42,4 +42,9 @@ As a backend developer, I adeptly combine technical expertise and programming sk
 
 - Freelance Designer    (2021 - Present)
 As a freelancer, I leverage my expertise to provide specialized services, delivering valuable solutions to my clients' unique needs.
-  
+
+<h1>CONTACT</h1>
+
+ - Connect me through [LinkedIn](https://www.linkedin.com/in/nithindaniel/) 
+ - My new projects [Github](https://github.com/nithindaniel1) 
+ - Website [Nithin Daniel](https://nithindaniel1.github.io/)
