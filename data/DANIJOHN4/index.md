@@ -5,8 +5,16 @@ As a dedicated learner with a passion for UI design, I am currently pursuing a b
 
 # EDUCATION:
 Bachelor of Computer Application (BCA) from Kristu Jyoti College of Management and Technology, affiliated with Mahatma Gandhi University.
+Higher Secondary Education (Maths/IP)- St.Jude Global School
 
 SKILLS 
 - UI/UX
 - Figma
 - ppt/excel
+- Computer Literacy
+
+CERTIFICATIONS
+- Powerpoint
+- Excel
+- Chat GPT(basic)
+
