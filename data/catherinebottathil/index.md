@@ -8,3 +8,12 @@ EDUCATION
    - Mahatma Gandhi University Bachelor Of Computer Application (BCA), (Kristu Jyoti College Of Management And Techonology, Changanacherry) 2023 - Present
    - Higher secondary, Bio Maths-science(St. theresas bethany convent higher secondary school, chengaroor) 2021-2023 
 
+SKILLS
+   - UI/UX
+   - MICROSOFT WORD
+   - FIGMA
+   - ANIMATION
+   - COMMUNICATION
+
+CONTACT
+   Connect me through linkedin
