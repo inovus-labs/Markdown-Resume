@@ -13,3 +13,11 @@ Bachelor of Computer Application
 Management and Technology,
 Changanacherry) 2022 - Present
 
+<h1>SKILLS</h1>
+
+- Web Design
+- Python
+- Django
+- Node Js
+- HTML / CSS
+- Javascript
