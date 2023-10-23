@@ -12,4 +12,13 @@ As a dedicated learner with a passion for UI designing , I’m currently pursuin
 -	Excel
 -	Computer Literacy
 -	HTML   
-                 
+
+           Experience :
+-	Figma
+	-Excel
+	-SQL 
+       
+          Contact :
+          Aswin A
+         aswinanil4u@gmail.com
+             
