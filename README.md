@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/inovus-labs/markdown-resume)](https://github.com/inovus-labs/markdown-resume/blob/main/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/inovus-labs/markdown-resume)](https://github.com/inovus-labs/markdown-resume/network)
 [![Contributors](https://img.shields.io/github/contributors/inovus-labs/markdown-resume)](https://github.com/inovus-labs/markdown-resume/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/inovus-labs/markdown-resume/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Only%20accepted%20from%20KJCMT%20students-brightgreen.svg)](https://github.com/inovus-labs/markdown-resume/pulls)
 ![GitHub repo size](https://img.shields.io/github/repo-size/inovus-labs/markdown-resume)
 ![GitHub last commit](https://img.shields.io/github/last-commit/inovus-labs/markdown-resume)
 
