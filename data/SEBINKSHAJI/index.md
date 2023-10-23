@@ -11,3 +11,8 @@ SKILLS
 - ppt/excel
 - Computer literacy
 
+CERTIFICATIONS
+I have participated in the IOT workshop conducted by the Inovus Labs IEDC,Kristu Jyothi College of Management and Technology
+
+CONTACT
+sebinshaji02@gmail.com
